@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    
+    font-family: 'DynaPuff', cursive;
+    width: 100%;
+    height: 100vh;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.container{
+    font-family: 'DynaPuff', cursive;
+    width: 50%;
+    height: 40vh;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 12px;  
+}
+
+.btn1{
+    font-family: 'DynaPuff', cursive;
+    width: 150px;
+    height: 50px;
+    border-radius: 16px;
+    background-color: black;  
+    color: white;  
+    font-size: 20px;
+    cursor: pointer;   
+}
+
+.btn2{
+    font-family: 'DynaPuff', cursive;
+    width: 150px;
+    height: 50px;
+    border-radius: 16px;
+    background-color: black;  
+    color: white;  
+    font-size: 20px;
+    cursor: pointer;   
+}
+
+.btn1:hover{
+    background-color:red;
+    cursor: pointer;   
+}
+
+.btn2:hover{
+    background-color: green;
+    cursor: pointer;   
+}
